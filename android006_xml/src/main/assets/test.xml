@@ -1,0 +1,32 @@
+<?xml version="1.0"  encoding="utf-8"?>
+<users>
+	<user id="23">
+	    <name>李明</name>
+		<age>30</age>
+<!--		<skills>-->
+<!--			<skill>Java</skill>-->
+<!--			<skill>Python</skill>-->
+<!--			<skill>PHP</skill>-->
+<!--		</skills>-->
+	</user>
+	<user id="20">
+		<name>张三</name>
+		<age>40</age>
+		<skills>
+			<skill>Java1</skill>
+			<skill>Python1</skill>
+		</skills>
+	</user>
+	<user id="21">
+		<name>张三1</name>
+		<age>401</age>
+	</user>
+	<user id="202">
+		<name>张三2</name>
+		<age>402</age>
+	</user>
+	<user id="249">
+		<name>你看看</name>
+		<age>55</age>
+	</user>
+</users>

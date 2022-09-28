@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    >
+    <!-- 文本提示框 -->
+<TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="请输入要拨打的电话号码"
+    />
+
+   <!-- 文本的输入框      
+   			 id：给当前的组件命名phone，注册在R文件的id选项中--> 
+    <EditText 
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+    	android:id="@+id/phone"
+    	/>
+   <!-- 添加短信输入框 -->
+   <TextView  
+    android:layout_width="fill_parent" 
+    android:layout_height="wrap_content" 
+    android:text="请输入要发送的信息"
+    />
+   <!-- 号码的输入框 --> 
+    <EditText 
+    	android:layout_width="fill_parent" 
+    	android:layout_height="wrap_content" 
+    	android:id="@+id/message"
+    	/>
+    	
+   <!-- 编写一个拨打按钮 -->
+     <Button android:text="拨号" 
+    		android:id="@+id/call" 
+    		android:layout_width="wrap_content" 
+    		android:layout_height="wrap_content">
+    		</Button>
+     <Button android:text="发送" 
+    		android:id="@+id/send" 
+    		android:layout_width="wrap_content" 
+    		android:layout_height="wrap_content">
+    		</Button>
+</LinearLayout>
+

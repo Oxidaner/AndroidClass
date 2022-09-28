@@ -1,0 +1,23 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "AndroidClass"
+include ':app'
+include ':android001'
+include ':android002'
+include ':android003_sharedpreferences'
+include ':android004_database'
+include ':android005_file'
+include ':android006_xml'
+include ':mylearn'
