@@ -7,6 +7,7 @@
         <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="DEFAULT_WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="Embedded JDK" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -16,6 +17,8 @@
             <option value="$PROJECT_DIR$/android004_database" />
             <option value="$PROJECT_DIR$/android005_file" />
             <option value="$PROJECT_DIR$/android006_xml" />
+            <option value="$PROJECT_DIR$/android007_net_imageview" />
+            <option value="$PROJECT_DIR$/android008_net_picture" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/mylearn" />
           </set>

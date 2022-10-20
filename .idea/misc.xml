@@ -3,12 +3,24 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/myHomework/android/AndroidClass/MyLearn/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/myHomework/android/AndroidClass/MyLearn/src/main/res/layout/activity_main.xml" value="0.1503623188405797" />
+        <entry key="..\:/myHomework/android/AndroidClass/MyLearn/src/main/res/layout/activity_main2.xml" value="0.1503623188405797" />
+        <entry key="..\:/myHomework/android/AndroidClass/android001/src/main/res/layout-v31/activity_number_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/myHomework/android/AndroidClass/android001/src/main/res/layout-v31/activity_phone_main.xml" value="0.25364583333333335" />
         <entry key="..\:/myHomework/android/AndroidClass/android001/src/main/res/layout/activity_main.xml" value="0.22780797101449277" />
+        <entry key="..\:/myHomework/android/AndroidClass/android001/src/main/res/layout/activity_new_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/myHomework/android/AndroidClass/android002/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/myHomework/android/AndroidClass/android003_sharedpreferences/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/myHomework/android/AndroidClass/android004_database/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/myHomework/android/AndroidClass/android005_file/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
         <entry key="..\:/myHomework/android/AndroidClass/android006_xml/src/main/res/layout/activity_main.xml" value="0.22780797101449277" />
+        <entry key="..\:/myHomework/android/AndroidClass/android007_net_imageview/src/main/res/layout/activity_main.xml" value="0.33217993079584773" />
+        <entry key="..\:/myHomework/android/AndroidClass/android007_net_imageview/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
